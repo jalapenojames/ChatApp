@@ -27,7 +27,8 @@
         "backgroundColor": "#FFFFFF",
         "package": "com.makola.chatapp",
         "versionCode": 1
-      }
+      },
+      "package": "com.makola.chatapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
